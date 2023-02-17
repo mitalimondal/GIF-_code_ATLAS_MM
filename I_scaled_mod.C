@@ -1,6 +1,6 @@
 //**************************************************************************************
 //                                                                                     *
-//           This code is written by Debabrata Bhowmik & Mitali Mondal      DebabrataBhowmik           *
+//           This code is written by Debabrata Bhowmik & Mitali Mondal                 *
 //                                                                                     *
 //**************************************************************************************
 #include <iostream>
