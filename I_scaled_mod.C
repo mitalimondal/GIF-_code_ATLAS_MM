@@ -1,8 +1,9 @@
 //**************************************************************************************
 //                                                                                     *
-//           This code is written by Debabrata Bhowmik & Mitali Mondal                 *
+//           This code is written by DEBABRATA BHOWMIK & MITALI MONDAL                 *
 //                                                                                     *
 //**************************************************************************************
+
 #include <iostream>
 #include <fstream>
 #include <vector>
@@ -163,6 +164,7 @@ void I_scaled_mod() {
     //c1->SaveAs(cNamepng);
     c1->SaveAs(cNameroot);
     //c1->SaveAs(cNamepdf);
+    delete c1;
     gr2->AddPoint(R, dist);
   } //End iteration over R
 
