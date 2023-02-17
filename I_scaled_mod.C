@@ -1,6 +1,6 @@
 //**************************************************************************************
 //                                                                                     *
-//           This code is written by DEBABRATA Bhowmik & MITALI Mondal                 *
+//           This code is written by Debabrata Bhowmik & Mitali Mondal                 *
 //                                                                                     *
 //**************************************************************************************
 
